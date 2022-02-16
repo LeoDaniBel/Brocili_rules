@@ -1,5 +1,9 @@
 import random
 
+"""
+Daniel is the Brocoli person in the house
+
+"""
 X = "X"
 O = "O"
 EMPTY = "*"
